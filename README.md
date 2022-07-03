@@ -49,6 +49,8 @@
 <img src="https://github.com/Dhaou-Jawhar/APP-SMART-ESPRIT/blob/master/pixmaps/gif%20projet.gif" alt="Intro" />
 </p>
 
+
+<p align="center">
 This guide to using the Smart Esprit Web application is intended for all agents of the privet ESPRIT school, who will interact with the application in the context of management of the home, catering, students, complaints and the technical part. .
 
 The Smart Spirit app allows you to facilitate spirit management with a method
@@ -63,6 +65,7 @@ Access to the application and the steps to follow when first accessing the appli
 
 In the second part of this guide, we focus on the different functionalities of the SMART ESPRIT application.
 You will find a multitude of tips on how to use the application correctly.
+</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
