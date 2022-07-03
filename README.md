@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://docs.google.com/viewer?url=https://drive.google.com/file/d/1JsEYl6GZkXHwge4ihd9FzKnS-escxRUj/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1JsEYl6GZkXHwge4ihd9FzKnS-escxRUj/view?usp=sharing">
     <img src="https://github.com/Dhaou-Jawhar/APP-SMART-ESPRIT/blob/master/pixmaps/Smart%20Esp.gif" alt="Logo" width="80" height="80">
   </a>
 
