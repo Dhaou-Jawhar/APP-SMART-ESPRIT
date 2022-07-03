@@ -77,3 +77,16 @@ This Projet Built By Gtk Glade Application in ubuntu , and C++ as a language :
 * [ubuntu](https://ubuntu.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+In order to use the SMART ESPRIT application, we recommend that you follow the following tips:
+
+* Internet: an Internet connection is essential, you can download the application and the necessary tools or we will use the app.
+
+* Linux: is an open-source operating system and an IT infrastructure platform, where we will install the GLADE tool.
+
+* GLADE: is a software that allows you to run the SMART ESPRIT project.
+
+* PROFILE: depends on the task to be done, for example if the customer wants to access all the services and add the agents, he must have administration access.
