@@ -1,0 +1,6 @@
+07453078 jawhar dhaou jawhar 1234 admin 10/12/2021 1
+07453078 majdi BHY majdi 1234 stock 10/12/2021 6
+14785236 eya tizaou eya 1234 Technicien 1/1/1999 3
+14785236 islem yaacoubi islem 1234 Etudiant 1/1/1999 2
+14785236 ines bennaser ines 1234 Nutritionnist 1/1/1999 4
+14785236 nadia sassi nadia 1234 Hebergement 1/1/1999 5
