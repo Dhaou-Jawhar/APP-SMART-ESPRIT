@@ -10,7 +10,7 @@
   <p align="center">
     An awesome Projet built with a hard software called Glade
     <br />
-  <a href="https://drive.google.com/file/d/1C2DoysGTLxeSKrlGhPFP0Jnx5Y3Pe-RS/view?usp=sharing">
+  <a href="https://github.com/Dhaou-Jawhar/APP-SMART-ESPRIT/blob/master/pixmaps/User-Guide-SMART-ESPRIT.pdf">
     <img src="https://github.com/Dhaou-Jawhar/APP-SMART-ESPRIT/blob/master/pixmaps/Explore%20the%20guide.gif" alt="Logo" width="200" hight="150" />
   </a>
   </p> 
