@@ -43,9 +43,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-<p align="center">
 ## About The Project
-</p>
 
 <p align="center">
 <img src="https://github.com/Dhaou-Jawhar/APP-SMART-ESPRIT/blob/master/pixmaps/gif%20projet.gif" alt="Intro" />
