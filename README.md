@@ -121,8 +121,6 @@ Dhaou Jawhar
 </tr> 
 </table>
 
-[![](https://visitcount.itsvg.in/api?id=Dhaou-Jawhar&icon=0&color=6)](https://visitcount.itsvg.in)
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
   
