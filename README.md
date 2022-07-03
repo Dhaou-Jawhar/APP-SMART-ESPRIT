@@ -5,12 +5,12 @@
     <img src="https://github.com/Dhaou-Jawhar/APP-SMART-ESPRIT/blob/master/pixmaps/Guide%20Banner.png" alt="Logo" />
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">SMART ESPRIT APP GUIDE</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome Projet built with a hard software called Glade
     <br />
-    <a href="https://github.com/Dhaou-Jawhar/APP-SMART-ESPRIT"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Dhaou-Jawhar/APP-SMART-ESPRIT"><strong>Explore the Guide»</strong></a>
   </p>
 </div>
 
