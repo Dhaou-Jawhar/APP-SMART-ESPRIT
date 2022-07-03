@@ -10,12 +10,9 @@
   <p align="center">
     An awesome Projet built with a hard software called Glade
     <br />
-  <a href="https://docs.google.com/viewer?url=https://pdf.ac/1wIs7p">
+  <a href="https://docs.google.com/viewer?url=[https://pdf.ac/1wIs7p](https://www.scribd.com/document/580922334/User-Guide-Smart-Esprit)">
     <img src="https://github.com/Dhaou-Jawhar/APP-SMART-ESPRIT/blob/master/pixmaps/Explore%20the%20guide.gif" alt="Logo" width="200" hight="150" />
   </a>
-    
-<p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View User Guide Smart Esprit on Scribd" href="https://www.scribd.com/document/580922334/User-Guide-Smart-Esprit#from_embed"  style="text-decoration: underline;" >User Guide Smart Esprit</a> by <a title="View ۦ، جوهر's profile on Scribd" href="https://www.scribd.com/user/285263926/%DB%A6-%D8%AC%D9%88%D9%87%D8%B1#from_embed"  style="text-decoration: underline;" >ۦ، جوهر</a> on Scribd</p><iframe class="scribd_iframe_embed" title="User Guide Smart Esprit" src="https://www.scribd.com/embeds/580922334/content?start_page=1&view_mode=scroll&access_key=key-gl8WuJSP4u5JAJnSCORk" data-auto-height="false" data-aspect-ratio="0.7080062794348508" scrolling="no" id="doc_21348" width="100%" height="600" frameborder="0"></iframe>
-  </p>
     Click 👆
 </div>
 
