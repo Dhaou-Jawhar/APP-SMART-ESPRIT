@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://drive.google.com/file/d/1JsEYl6GZkXHwge4ihd9FzKnS-escxRUj/view?usp=sharing">
-    <img src="https://github.com/Dhaou-Jawhar/APP-SMART-ESPRIT/blob/master/pixmaps/Guide%20Banner.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Dhaou-Jawhar/APP-SMART-ESPRIT/blob/master/pixmaps/Guide%20Banner.png" alt="Logo" />
   </a>
 
   <h3 align="center">Best-README-Template</h3>
