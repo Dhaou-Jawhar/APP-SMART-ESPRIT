@@ -99,3 +99,7 @@ In order to use the SMART ESPRIT application, we recommend that you follow the f
 * GLADE: is a software that allows you to run the SMART ESPRIT project.
 
 * PROFILE: depends on the task to be done, for example if the customer wants to access all the services and add the agents, he must have administration access.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
