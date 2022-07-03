@@ -10,7 +10,7 @@
   <p align="center">
     An awesome Projet built with a hard software called Glade
     <br />
-  <a href="https://pdf.ac/1wIs7p">
+  <a href="https://docs.google.com/viewer?url=https://pdf.ac/1wIs7p">
     <img src="https://github.com/Dhaou-Jawhar/APP-SMART-ESPRIT/blob/master/pixmaps/Explore%20the%20guide.gif" alt="Logo" width="200" hight="150" />
   </a>
   </p>
