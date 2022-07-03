@@ -113,5 +113,16 @@ In order to use the SMART ESPRIT application, we recommend that you follow the f
 
 Dhaou Jawhar
 
+<p align="center">
+<a href = "https://github.com/Dhaou-Jawhar"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
+<a href = "https://www.linkedin.com/in/dhaou-jawhar/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedInLogo.svg" width="36" height="36"/></a>
+</p>
+</td>
+</tr> 
+</table>
+
+[![](https://visitcount.itsvg.in/api?id=Dhaou-Jawhar&icon=0&color=6)](https://visitcount.itsvg.in)
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
   
