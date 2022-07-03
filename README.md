@@ -13,7 +13,8 @@
   <a href="https://www.scribd.com/document/580922334/User-Guide-Smart-Esprit">
     <img src="https://github.com/Dhaou-Jawhar/APP-SMART-ESPRIT/blob/master/pixmaps/Explore%20the%20guide.gif" alt="Logo" width="200" hight="150" />
   </a>
-    Click 👆
+  </p> 
+   Click 👆
 </div>
 
 
