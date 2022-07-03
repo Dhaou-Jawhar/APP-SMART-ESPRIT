@@ -13,8 +13,8 @@
   <a href="https://drive.google.com/file/d/1JsEYl6GZkXHwge4ihd9FzKnS-escxRUj/view?usp=sharing">
     <img src="https://github.com/Dhaou-Jawhar/APP-SMART-ESPRIT/blob/master/pixmaps/Explore%20the%20guide.gif" alt="Logo" width="200" hight="150" />
   </a>
-   Click 👆
   </p>
+    Click 👆
 </div>
 
 
