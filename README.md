@@ -49,16 +49,20 @@
 <img src="https://github.com/Dhaou-Jawhar/APP-SMART-ESPRIT/blob/master/pixmaps/gif%20projet.gif" alt="Intro" />
 </p>
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This guide to using the Smart Esprit Web application is intended for all agents of the privet ESPRIT school, who will interact with the application in the context of management of the home, catering, students, complaints and the technical part. .
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+The Smart Spirit app allows you to facilitate spirit management with a method
+Professional and innovative.
+From this application the customer can complete the administrative, technical, catering, accommodation and complaint procedures.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+This application replaces the old manual procedures: it allows for example to manage the sensors installed in the different areas of the mind remotely (supervision, notification, intervention).
+In this user guide, you will find all the information you need to familiarize yourself with the application. This guide is divided into two parts.
 
-Use the `BLANK_README.md` to get started.
+The first informs you of the necessary prerequisites for using the application,
+Access to the application and the steps to follow when first accessing the application.
+
+In the second part of this guide, we focus on the different functionalities of the SMART ESPRIT application.
+You will find a multitude of tips on how to use the application correctly.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
