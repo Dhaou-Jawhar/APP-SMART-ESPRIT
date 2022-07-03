@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://drive.google.com/file/d/1JsEYl6GZkXHwge4ihd9FzKnS-escxRUj/view?usp=sharing">
+  <a href="https://github.com/Dhaou-Jawhar/APP-SMART-ESPRIT/blob/master/pixmaps/User-Guide-SMART-ESPRIT.pdf">
     <img src="https://github.com/Dhaou-Jawhar/APP-SMART-ESPRIT/blob/master/pixmaps/Guide%20Banner.png" alt="Logo" />
   </a>
 
