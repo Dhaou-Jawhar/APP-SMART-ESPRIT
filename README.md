@@ -81,7 +81,9 @@ This Projet Built By Gtk Glade Application in ubuntu , and C++ as a language :
 <!-- GETTING STARTED -->
 ## Getting Started
 
-In order to use the SMART ESPRIT application, we recommend that you follow the following tips:
+In order to use the SMART ESPRIT application, we recommend that you follow the following tips :
+
+### Prerequisites
 
 * Internet: an Internet connection is essential, you can download the application and the necessary tools or we will use the app.
 
