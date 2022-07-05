@@ -107,6 +107,7 @@ In order to use the SMART ESPRIT application, we recommend that you follow the f
 ## Contact
 
 <table style="background-color:#F5F5DC">
+<div>
 <tr>
 <td>
 <img src="https://github.com/Dhaou-Jawhar/Dhaou-Jawhar/blob/main/be259bd5-577b-4aa8-b27a-250649810988.png" width="180"/>
@@ -130,6 +131,7 @@ Sami Cherif
 
 </td>
 </tr> 
+</div>
 </table>
 
 
