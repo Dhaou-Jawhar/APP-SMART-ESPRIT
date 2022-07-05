@@ -121,6 +121,20 @@ Dhaou Jawhar
 </tr> 
 </table>
 
+<table style="background-color:#F5F5DC">
+<tr>
+<td>
+<img src="https://github.com/Dhaou-Jawhar/APP-SMART-ESPRIT/blob/master/pixmaps/Mr_sami.jpg" width="180"/>
+
+Sami Cherif
+
+</td>
+</tr> 
+</table>
+
+
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
   
